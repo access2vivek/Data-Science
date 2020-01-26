@@ -1,2 +1,5 @@
 # Data-Science
-Sharing my Data Science mini project notebooks here for anyone interested to learn data science and to showcase my work.
+Sharing some of my notebooks related to Data Science.
+
+##Scraping with BeautifulSoup
+An introduction to collecting data from a website with BeautifulSoup.
